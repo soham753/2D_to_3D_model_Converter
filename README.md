@@ -24,9 +24,8 @@ A web application that converts 2D civil blueprints (like floor plans or archite
 
 ## 📺 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/OcdhMn8oaiU/hqdefault.jpg)](https://youtu.be/OcdhMn8oaiU)
+https://github.com/user-attachments/assets/e2b5a605-6399-43b4-a626-a9dc3bfed5dd
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OcdhMn8oaiU" frameborder="0" allowfullscreen></iframe>
 
 
 
